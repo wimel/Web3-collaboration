@@ -11,7 +11,9 @@ Please provide the following:
 
 ## Team members
 * Lead by Mario Pino Uceda 
-* Names of team members	
+* Ana @Bitcoinera
+* Wimel @cosmaut:matrix.org
+* Fredy @derfredy:matrix.org
 
 ## Team Website	
 * https://colmenalabs.org
@@ -24,6 +26,8 @@ Please provide the name and registered address of the legal entity executing the
 
 ## Team's experience
 Please describe the team's relevant experience.
+
+Team ColmenaLabs have a large expertise in blockchain technologies, conducting meetups of Ethereum since earlier 2016. ColmenaLabs is also one of the most active community of the Iberian Peninsula (Spain + Portugal). Our previous blockchain experience has facilitated our landing in the Proof of Stake era, where we participate with great success and good reputation on many projects. We have 2 winners of the Game of Stake Hackatom, we are validating on Kusama testnet and we support polkadot testnets since PoC-1. Our latest contribution and the main reason for this grant is the named polkastats.io 
 
 ## Team Code Repos
 * https://github.com/polkastats-v2
