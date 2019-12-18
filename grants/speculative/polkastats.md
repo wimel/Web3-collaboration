@@ -50,6 +50,22 @@ Please provide the following:
   * A schedule indicating when each milestone will be achieved.
   * The team's long-term plans and intentions 
 
+* Milestone: New backend v3
+    * Crawlers
+    * Postgres SQL
+    * API HASURA
+
+* Milestone: Frontend v3
+    * API HASURA
+    * New graphs
+      Slash, Rewards, Events, phragment
+    * Polkadot browser extension
+    * Ledger
+
+* Milestone: Internationalization i18n
+
+* Milestone: Monitorization for validators
+
 ## Additional Information
 Any additional information that you think is relevant to this application that hasn't already been included.
 
